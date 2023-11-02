@@ -1,1 +1,6 @@
 # Obituary-Generator
+
+
+In the culmination of my web development class, I have created a powerful and versatile Obituary Generator as my final project. This application showcases the amalgamation of modern technology and thoughtful design to deliver a user-friendly and highly functional experience. At its core, the project features a dynamic front end built using React, enabling users to input obituary information effortlessly. What sets this project apart is the seamless integration of the ChatGPT API, which empowers the system to generate text-based obituaries, complete with images, making the process of creating heartfelt tributes more accessible and convenient.
+
+The backend of the Obituary Generator leverages the robust capabilities of Amazon Web Services (AWS), embracing DynamoDB for efficient data storage and retrieval. Additionally, Cloudinary is utilized for the seamless storage and retrieval of images, ensuring that each obituary is accompanied by relevant visuals. To optimize and automate various functions, AWS Step Functions have been strategically deployed to orchestrate Lambda functions, ensuring a scalable and resilient architecture that can handle a wide range of user inputs and requests. This architectural approach not only enhances performance but also sets the stage for future scalability.
